@@ -1,0 +1,37 @@
+:root {
+    font-size: 16px;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    max-width: 60ch;
+    margin-left: 600px;
+    margin-right: 600px;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Kalam', cursive;
+color: blueviolet;
+}
+h2,h3,h4,h5 {
+text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    font-weight: 700; 
+    color: slateblue;
+    text-transform: uppercase;
+}
+a:visited {
+    color: crimson;
+    text-decoration: line-through;
+}
+a:hover {
+    color: darkblue;
+}
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 450px;
+    height: 300px;
+}
